@@ -12,7 +12,7 @@ The goal is to classify a given text (such as a movie review or news article) as
 - To preprocess and clean textual data effectively for NLP tasks.  
 - To represent words as numerical vectors for deep learning models.   
 - To build and compare the performance of **RNN**, **LSTM**, and **GRU** architectures.  
-- To evaluate model accuracy, training loss, and generalization ability.  
+- To evaluate model accuracy, training loss, and generalization ability.   
 - To deploy the best-performing model using an interactive **Streamlit** web interface.
 
 ---
