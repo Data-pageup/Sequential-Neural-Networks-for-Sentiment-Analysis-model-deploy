@@ -8,7 +8,7 @@ The goal is to classify a given text (such as a movie review or news article) as
  
 ---
 
-## Objectives 
+## Objectives  
 - To preprocess and clean textual data effectively for NLP tasks.  
 - To represent words as numerical vectors for deep learning models.   
 - To build and compare the performance of **RNN**, **LSTM**, and **GRU** architectures.  
