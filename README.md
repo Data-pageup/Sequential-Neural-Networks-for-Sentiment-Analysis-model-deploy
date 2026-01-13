@@ -5,7 +5,7 @@
 ## Overview
 This project implements **Sequential Deep Learning Models** such as **RNN**, **LSTM**, and **GRU** to perform **Sentiment Analysis** on textual data.  
 The goal is to classify a given text (such as a movie review or news article) as either **positive** or **negative** by understanding the contextual meaning of words using neural sequence models.
-
+ 
 ---
 
 ## Objectives
